@@ -1,0 +1,110 @@
+Apple
+Google
+Amazon
+Microsoft
+Coca-Cola
+Samsung
+Facebook
+Meta
+Toyota
+McDonald's
+Disney
+Nike
+Visa
+Mastercard
+Walmart
+BMW
+Mercedes-Benz
+IBM
+AT&T
+Verizon
+Sony
+Porsche
+Intel
+Pepsi
+Audi
+Honda
+Starbucks
+General Electric
+Ford
+Louis Vuitton
+Goldman Sachs
+Chanel
+American Express
+Adidas
+Target
+Netflix
+L'Oreal
+Nestle
+Volkswagen
+Budweiser
+UPS
+United Parcel Service
+FedEx
+American Airlines
+Delta Air Lines
+IBM
+HP
+Hewlett-Packard
+Dell
+Cisco
+Oracle
+American Eagle Outfitters
+H&M
+Zara
+Gucci
+Prada
+Ralph Lauren
+Hermes
+Burberry
+Tiffany & Co.
+Rolex
+Panasonic
+LG
+Siemens
+Nokia
+Mitsubishi
+J.P. Morgan
+Bank of America
+Wells Fargo
+Citibank
+Citigroup
+Chase
+JPMorgan Chase
+HSBC
+UBS
+Morgan Stanley
+Goldman Sachs
+VISA
+Mastercard
+American Express
+PayPal
+Square
+Uber
+Lyft
+Airbnb
+Tesla
+SpaceX
+Boeing
+Lockheed Martin
+NASA
+Tesla
+SpaceX
+Boeing
+Lockheed Martin
+NASA
+Nike
+Adidas
+Under Armour
+Reebok
+H&M
+Zara
+Forever 21
+Gap
+Uniqlo
+Topshop
+Puma
+New Balance
+Asics
+Converse
+Vans

@@ -1,0 +1,32 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
+{
+    "name": "Ubuntu",
+    "dockerFile": "Dockerfile",
+    "context": "..",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "github.copilot",
+          "ms-python.python"
+        ]
+      }
+    },
+    "runArgs": ["--gpus", "all"],
+    //"image": "mcr.microsoft.com/devcontainers/base:jammy",
+    // Features to add to the dev container. More info: https://containers.dev/features.
+    // "features": {},
+    // Use 'forwardPorts' to make a list of ports inside the container available locally.
+    // Use 'postCreateCommand' to run commands after the container is created.
+    //"postCreateCommand": "yarn setup",
+    // Configure tool-specific properties.
+    // "customizations": {},
+    // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+    // "remoteUser": "root",
+    // @tsilva HACK: ssh keys were not available by default when running container
+    // in Windows 11, ultimately bypassed the issue with the hack below
+    // REF: https://github.com/microsoft/vscode-remote-release/issues/4024
+    // REF: https://github.com/microsoft/vscode-remote-release/issues/106
+    "initializeCommand": "ssh-add ~/.ssh/tynker_me"
+  }
+  
